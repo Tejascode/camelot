@@ -12,6 +12,9 @@
 
 **Camelot** is a Python library that can help you extract tables from PDFs!
 
+  PDF or Portable Document File format is one of the most common file formats in today’s time. It is widely used across every industry such as in government offices, healthcare, and even in personal work. As a result, there is a large unstructured data that exists in PDF format and extracting this data to generate meaningful insights is a common work among data scientists.
+
+There are several Python libraries dedicated to working with PDF documents such as PYPDF2 etc. In this tutorial, I will be using Camelot.
 **Note:** You can also check out [Excalibur](https://github.com/camelot-dev/excalibur), the web interface to Camelot!
 
 ---
@@ -114,3 +117,10 @@ Camelot uses [Semantic Versioning](https://semver.org/). For the available versi
 ## License
 
 This project is licensed under the MIT License, see the [LICENSE](https://github.com/camelot-dev/camelot/blob/master/LICENSE) file for details.
+
+## Conclusion
+Extracting tabular data from pdf with help of camelot library is really easy. Moreover, we know there is a huge amount of unstructured data in pdf formats and after extracting the tables we can do lots of analysis and visualization based on your business need.
+
+I hope this article will help you and save a good amount of time. Let me know if you have any suggestions.
+
+HAPPY CODING.
